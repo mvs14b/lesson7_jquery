@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 28, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Michael Shapley)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This project was all about learning how to modify lists on a web page and becoming familiar with jqeury.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://mvs14b.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned how to modify a menu item on a web page so when it is selcted an entire list pops up.)
+2. (Became more famiiar with using a javascript console pane and how it operates.)
+3. (Learned the techniques of making a website have certain effects when you click on a certain menu option.)
 
